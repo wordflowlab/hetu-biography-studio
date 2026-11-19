@@ -1,0 +1,45 @@
+{
+  "recorded_at": "2026-11-19",
+  "official_full_verification": "https://github.com/wordflowlab/hetu-biography-studio/actions/runs/44459280451",
+  "verification_source_commit": "6b6da244b5927e5f7e65b4279b3add8bd35a760f",
+  "host": {
+    "version": "0.12.6",
+    "git_sha": "b75293837aaa220803b9dc964ba72b8646fa7244",
+    "archive_sha256": "de012d76bb9751d6f2ed78427c6887563fcfd4455ae19717c6f65a9182700ab3",
+    "source_build": false,
+    "signature_verified": true,
+    "gatekeeper": "/Applications/Hetu.app: accepted\nsource=Notarized Developer ID",
+    "staple": "Processing: /Applications/Hetu.app\nThe validate action worked!"
+  },
+  "package_sha256": "e6dd4d89c86b34109d2cc83f133d65b3abd0acacaed9293d701251a3a0600896",
+  "archive_sha256": "c85cc3e400cec4021dee9c2c23e5deb2fcfe1d8f732ec2baf02a030e47efd59b",
+  "unit_tests": 42,
+  "machine_action_count": 31,
+  "full_pipeline": [
+    {
+      "test": "machine",
+      "exit_code": 0
+    },
+    {
+      "test": "cross",
+      "exit_code": 0
+    },
+    {
+      "test": "ui",
+      "exit_code": 0
+    }
+  ],
+  "current_codex": "conversation-acceptance.json",
+  "actual_work_surfaces": "ui-review.json",
+  "scope": [
+    "完整专业动作、包内三份Skill、CAS、同键异参、原键恢复及安装启停卸载重装",
+    "三包固定专业依据接续、宿主下一稿候选和原作品固定引用保持",
+    "独立剧本与视频各自来源和管理引用，错作品拒绝",
+    "五页浅暗1360／760、键盘、专业导出原字节、取消、冲突保留、明确新基线和关闭恢复"
+  ],
+  "limits": [
+    "macOS arm64专业开发预览",
+    "材料为原创虚构人物和记载，不是真人采访、史实认证或作者创作质量评判",
+    "未执行Windows/Linux专业实机、外发、付费、正文采纳或定稿"
+  ]
+}

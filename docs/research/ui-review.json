@@ -1,8 +1,8 @@
 {
   "recorded_at": "2026-11-19",
   "host_version": "0.12.6",
-  "package_sha256": "24cf0a063f5120e8e4dd5879536927b4effcc2ef14a57e307a45a44a71daf163",
-  "basis": "公开签名公证宿主的隔离安装，原创演示材料；实际查看五页浅暗正常／窄窗和专业操作。",
+  "package_sha256": "e6dd4d89c86b34109d2cc83f133d65b3abd0acacaed9293d701251a3a0600896",
+  "basis": "最终冻结包在公开签名公证宿主0.12.6及干净macOS运行器的实际工作面与完整业务验收；本机复核和旧失败分别保留。",
   "scores": {
     "layout": 9,
     "spacing_alignment": 9,
@@ -26,128 +26,128 @@
   ],
   "files": [
     {
-      "file": "evidence/work-surfaces/light-760-view-0.png",
-      "sha256": "355ff25cc720d1f9d307b38ae0a294481a4a0948b11553f93a3a17a567fd3c25"
-    },
-    {
-      "file": "evidence/work-surfaces/light-1360-view-1.png",
-      "sha256": "a7c289765f00256321abdd57aaddb53b45dd891fd1eea5ac38eecc382048bf83"
-    },
-    {
-      "file": "evidence/work-surfaces/light-1360-view-0.png",
-      "sha256": "9fb9650f3df717e07a885c26f8164bcab193b6310b4973e32a6c09f7c018f611"
-    },
-    {
-      "file": "evidence/work-surfaces/reduced-transparency.png",
-      "sha256": "4eebfa5eebe102509d7c569b8cb46adff139911f9b9e855a8d05435c8ec91ee7"
-    },
-    {
-      "file": "evidence/work-surfaces/light-760-view-1.png",
-      "sha256": "be0dcbb7aa513b39a9212bdaf0202173615d88bb2c4e399305bb590e5d3a0f7a"
-    },
-    {
-      "file": "evidence/work-surfaces/light-760-view-3.png",
-      "sha256": "90ee907f41ad2466c5f48060e99da0e7b5efd1ff2c2a98400c1206469c9bc015"
-    },
-    {
-      "file": "evidence/work-surfaces/light-1360-view-2.png",
-      "sha256": "cbdc7619c8dac5a6489acc1cc81ba0d56545aae79cac2bf47f65c7436c01a3b4"
-    },
-    {
-      "file": "evidence/work-surfaces/light-1360-view-3.png",
-      "sha256": "8c4651e2e6b69e2bbac210ef92b9ef8c61d67db26896b4892c7d9ad32ac06ab4"
-    },
-    {
-      "file": "evidence/work-surfaces/light-760-view-2.png",
-      "sha256": "79d4befc6528151a91837b49814802b499ff9dc3ccd6383e2f968e21e4144fb9"
-    },
-    {
-      "file": "evidence/work-surfaces/light-1360.png",
-      "sha256": "8bdcb2114fdbc3a7497a14c4d1068574650286d7ff2dafcee227b0bbf62605de"
-    },
-    {
-      "file": "evidence/work-surfaces/light-760.png",
-      "sha256": "f3d588ccad0619addf798fb2487d6a841b7b40d71579a72a1c950b5a841a1723"
-    },
-    {
-      "file": "evidence/work-surfaces/light-1360-view-4.png",
-      "sha256": "447e6a548687fc5394bcd36bca869d90a8f20ad8c1303ab72b7526b41930dc7d"
-    },
-    {
-      "file": "evidence/work-surfaces/light-760-view-4.png",
-      "sha256": "f3d588ccad0619addf798fb2487d6a841b7b40d71579a72a1c950b5a841a1723"
-    },
-    {
-      "file": "evidence/work-surfaces/empty.png",
-      "sha256": "ac6739ba52efd247a3d35229fdc29a08a6eaa25864f65ccb3c77f97cdcc5a979"
-    },
-    {
-      "file": "evidence/work-surfaces/dark-1360.png",
-      "sha256": "cf9c55ba68c41f10ac06fe9d1530a306ea7324ff19274f3fc867859df4d187b3"
-    },
-    {
-      "file": "evidence/work-surfaces/dark-1360-view-4.png",
-      "sha256": "7d778ff99fc271c3b37f8758f3d8a71fc056a116ad8660ea59615d7617e05a90"
-    },
-    {
-      "file": "evidence/work-surfaces/dark-1360-view-3.png",
-      "sha256": "b7316f74cd7f58d24afafdd5393792add8546c2486ae1929590bad762d834c0b"
-    },
-    {
-      "file": "evidence/work-surfaces/dark-1360-view-2.png",
-      "sha256": "62254c0cba464af5e5de964e94b8bf8f7ec5dcf7b82f69a4d70e1771a2df37e0"
-    },
-    {
       "file": "evidence/work-surfaces/dark-1360-view-0.png",
-      "sha256": "af0dc884ecdc92b27d60cc71de12d29dc3dbd38af99026616e7db3d03bded711"
-    },
-    {
-      "file": "evidence/work-surfaces/dark-760.png",
-      "sha256": "ecd1bb9d5d78b97cf6ae8b9352709764f8346274793babeb2cce6ba752c78a5e"
+      "sha256": "ff35ca8c10e25b488f2defb433a121d82eaf491ccb604b217cc3c255bb94cdff"
     },
     {
       "file": "evidence/work-surfaces/dark-1360-view-1.png",
-      "sha256": "26707270995fac3f8767078a075a0e9d7d9cdd02bd45320df0c2e12b0ab8d4e8"
+      "sha256": "50f2074f58fd2072f5e4a2831049d5222484dad6d61bb55551910f35c0daed9d"
     },
     {
-      "file": "evidence/work-surfaces/dark-760-view-4.png",
-      "sha256": "ecd1bb9d5d78b97cf6ae8b9352709764f8346274793babeb2cce6ba752c78a5e"
+      "file": "evidence/work-surfaces/dark-1360-view-2.png",
+      "sha256": "3ac0d2503b19f389455b10172d3a0de95398a6d831f6aa3e145a544047cb75bc"
     },
     {
-      "file": "evidence/work-surfaces/view-4.png",
-      "sha256": "09ff1182add9747f41278814f124f4c0cb0c93f153ad40397c05a9d66312bb45"
+      "file": "evidence/work-surfaces/dark-1360-view-3.png",
+      "sha256": "babc2ce74d21b9c1a11a6d862d1ebe54caf13ab851bf890958af51229151f70f"
     },
     {
-      "file": "evidence/work-surfaces/view-0.png",
-      "sha256": "29cb44011439ee536067148cc4c153806f42717f06e61f82d5415623dd7487cf"
+      "file": "evidence/work-surfaces/dark-1360-view-4.png",
+      "sha256": "b662653bbe8a0b007cbeb05eef89069dff1f5a316fb8957cecb4e3e445b7a191"
     },
     {
-      "file": "evidence/work-surfaces/dark-760-view-1.png",
-      "sha256": "1257422023e41eb7f24eabe0b776fbef595064e655477fa26e92181eae42294d"
+      "file": "evidence/work-surfaces/dark-1360.png",
+      "sha256": "c9de63d1132ecc9b8cd052eff899670292e430aa67782cdf9758f5cb26643df6"
     },
     {
       "file": "evidence/work-surfaces/dark-760-view-0.png",
-      "sha256": "308f72275860ceec18bf0bd0cdf88a4a94203612a3351a95e0867d9d59bf374a"
+      "sha256": "7590c83eb83685782343d3401761fad3183b7c2699be22e495da0a2a91698fe0"
     },
     {
-      "file": "evidence/work-surfaces/view-1.png",
-      "sha256": "1087dcc5e972742726fcf93aa4489a84d5a34a46d7ea917b086ddc69ffee3c4f"
-    },
-    {
-      "file": "evidence/work-surfaces/view-3.png",
-      "sha256": "be71290dd35e74db8e784cc3fb46f11208292ee4d768b8ea559e82801fc5eb78"
+      "file": "evidence/work-surfaces/dark-760-view-1.png",
+      "sha256": "f8186af45068ba86b28fce45148fb3285bb2cc4a5ffd5d9bae7fef63bc565a1c"
     },
     {
       "file": "evidence/work-surfaces/dark-760-view-2.png",
-      "sha256": "c2f83d4abd744a89872b147e7d05bb0eb9832495f98a69ed5a44376165d1589f"
+      "sha256": "db9293266c3e407f86d350d24ee374385247222a1cc865ef71785acbdaa7ccde"
     },
     {
       "file": "evidence/work-surfaces/dark-760-view-3.png",
-      "sha256": "c000e42daa537515720c883ce525598b48fd430e54266342e90fddaf8eb1d9de"
+      "sha256": "a2975448d0c70a90a47e65a808bbc7e3d9afb3a3d524ce1d493695b506bc682f"
+    },
+    {
+      "file": "evidence/work-surfaces/dark-760-view-4.png",
+      "sha256": "14082698a91da44dd28055d7812f077d457634396e55b858b87c402a28e44155"
+    },
+    {
+      "file": "evidence/work-surfaces/dark-760.png",
+      "sha256": "2919c2b85b29244853c27f2ea40e18d22a77b0391e7beae122a2c2076bd2638a"
+    },
+    {
+      "file": "evidence/work-surfaces/empty.png",
+      "sha256": "d1a94f6739d5eff2f5fff0252e1b6b786e82bbf6dd2c419f518dd21886f4908c"
+    },
+    {
+      "file": "evidence/work-surfaces/light-1360-view-0.png",
+      "sha256": "5cb54d09f7d6b1174420580e5f6d1ccd3ce5aa8dc5fbc904f90c353608d8bbcf"
+    },
+    {
+      "file": "evidence/work-surfaces/light-1360-view-1.png",
+      "sha256": "e0c01e12fbbb7efcc69b75580a4635de8e2560ecb695448a2e9abb4ca9d2f742"
+    },
+    {
+      "file": "evidence/work-surfaces/light-1360-view-2.png",
+      "sha256": "159a644fb713d2e8e9b12bbe66c937ef189f2d778a5d78c838d0a489b0a67596"
+    },
+    {
+      "file": "evidence/work-surfaces/light-1360-view-3.png",
+      "sha256": "17736514191aa6bc6c5ef3697c8bc00261280037e9b3b6a8546676ecef816b4c"
+    },
+    {
+      "file": "evidence/work-surfaces/light-1360-view-4.png",
+      "sha256": "de972a6d8ba85a02f17d811bbcb385037fe4192fcc80e6f17450f005796ae4e3"
+    },
+    {
+      "file": "evidence/work-surfaces/light-1360.png",
+      "sha256": "b93ddd55d12aacd2943038dcf15a5e1e7666ff87993116eefc4bb18780612df3"
+    },
+    {
+      "file": "evidence/work-surfaces/light-760-view-0.png",
+      "sha256": "fee911105eba06ef886d0be952b9a9b9928fc6eec9f30fef68007226baf2550c"
+    },
+    {
+      "file": "evidence/work-surfaces/light-760-view-1.png",
+      "sha256": "5e3a882bdcf4367e1924985fdbef26deb531800bf726507cbe98aa7c320e282e"
+    },
+    {
+      "file": "evidence/work-surfaces/light-760-view-2.png",
+      "sha256": "7d63ebbc6b1a914b0829c7c5a736618117d79de55ab97104702a354a7554e5bf"
+    },
+    {
+      "file": "evidence/work-surfaces/light-760-view-3.png",
+      "sha256": "db0183c3dba15e16d7ed0fd5b7611268626a23823ac3e8483efdb6f9a7d2b99b"
+    },
+    {
+      "file": "evidence/work-surfaces/light-760-view-4.png",
+      "sha256": "850ecdf0f64d063f3e1044a77aaa18e6f00b7a4ee43574687d306997c9101da5"
+    },
+    {
+      "file": "evidence/work-surfaces/light-760.png",
+      "sha256": "0628f6f9d157ea54532c5cd5c1ec16c3c5714e2473b2fd7dda138b262ae2871c"
+    },
+    {
+      "file": "evidence/work-surfaces/reduced-transparency.png",
+      "sha256": "87e25c0279be5fa82d50fd2620af1593ffe18cdff0680e4352e72fcb9aa2bd4a"
+    },
+    {
+      "file": "evidence/work-surfaces/view-0.png",
+      "sha256": "78b933f0c80d8f548e068c39455d84f3870ff5522c3edcea02a49b6137aff770"
+    },
+    {
+      "file": "evidence/work-surfaces/view-1.png",
+      "sha256": "6bd9933c6f17c90f4f95e3df14b6d8a7c27e5759e4674f6edac28817d47a776d"
     },
     {
       "file": "evidence/work-surfaces/view-2.png",
-      "sha256": "e0e0fd194400fde046987cda6a06b5e4e6570c6ca21ae85b170f512ec63cb64c"
+      "sha256": "d9c6801612396049c5917416c80aeaf6c029a297a0e776930f3f81d070a99ad1"
+    },
+    {
+      "file": "evidence/work-surfaces/view-3.png",
+      "sha256": "037ff1f261aa5caebd9b3493a7fba3069b913c42cd87d184d3b6d92c40a9e743"
+    },
+    {
+      "file": "evidence/work-surfaces/view-4.png",
+      "sha256": "b710f6023f71e05c58a3ea836d012a0f831f5294664e4d68781691d16363bac1"
     }
   ]
 }
