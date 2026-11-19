@@ -1,0 +1,40 @@
+[
+  {
+    "repository": "https://github.com/FamilySearch/GEDCOM.git",
+    "commit": "e2131cd8ee0ae2deed5afda127c4e5f1c3889362",
+    "license_and_scope": "Apache-2.0；只读日期、事件与来源建模研究",
+    "files": [
+      {
+        "path": "README.md",
+        "sha256": "acce3fff221fb3e8d8c96399290028b279faf424f5c63cfafb809b9efb66b8a7"
+      },
+      {
+        "path": "LICENSE",
+        "sha256": "deaa3fc078425e9e8bc8828fcd21369afee048e50890a80df2fa202c70f0c7d6"
+      },
+      {
+        "path": "specification/gedcom-3-structures-1-organization.md",
+        "sha256": "67125ae9bb4eab80d3c84f46b5f1af4b4d3f986c1c9488cd06e90332a86f9f4c"
+      }
+    ]
+  },
+  {
+    "repository": "https://github.com/inukshuk/edtf.js.git",
+    "commit": "797bca8e3b8ab8110ef99aceef3bc980b5aeecd7",
+    "license_and_scope": "BSD-2-Clause；只读不确定时间语义研究，不声称完整EDTF兼容",
+    "files": [
+      {
+        "path": "README.md",
+        "sha256": "2f4ec8b292dd1f2e45084df968f8dd3e4a3657a3ee61be546951d122d50417b6"
+      },
+      {
+        "path": "LICENSE",
+        "sha256": "5430b23ae5d68e3538d11c286a5c3442af367410d40f1f687a1479b8dee8c501"
+      },
+      {
+        "path": "src/date.js",
+        "sha256": "20c9da94ad9b54157ec0ec031b02f90352ffaa6e313a54f79fd095cfb3213242"
+      }
+    ]
+  }
+]

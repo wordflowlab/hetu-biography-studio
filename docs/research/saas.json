@@ -1,0 +1,20 @@
+[
+  {
+    "url": "https://www.aeontimeline.com/",
+    "date": "2026-11-19",
+    "scope": "只读公开页面，不登录、不生成、不将营销主张当业务验收",
+    "status": 200,
+    "final_url": "https://www.aeontimeline.com/",
+    "title": "Aeon Timeline | Grow big ideas into brilliant narratives",
+    "sha256": "02105884bb475805ed533aeaea175b5e8ef59722e3727535049c7c89f88b7785"
+  },
+  {
+    "url": "https://www.myheritage.com/",
+    "date": "2026-11-19",
+    "scope": "只读公开页面，不登录、不生成、不将营销主张当业务验收",
+    "status": 200,
+    "final_url": "https://www.myheritage.com/",
+    "title": "Free Family Tree, Genealogy, Family History, and DNA Testing",
+    "sha256": "93c4ae7d7ff65f4c7e7e5d4d891e25e96d44fb671cc753b6b78566ce68b79df8"
+  }
+]
