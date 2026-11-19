@@ -1,0 +1,8 @@
+erDiagram
+ PROJECT ||--o{ PERSON : distinguishes
+ PERSON }o--o{ EVENT : participates
+ EVENT }o--o{ EVIDENCE : cites
+ PERSON ||--o{ IDENTITY_STATEMENT : compares
+ CHAPTER }o--o{ EVENT : narrates
+ CHAPTER ||--o{ NOTE : reviews
+ EVENT ||--|| DATE_RANGE : qualifies

@@ -2,7 +2,7 @@
 
 ## 格式与数据库
 
-manifest_version=1、Host API=1、format_version=1、专业schema_version=1.0.0。可执行字段及动作参数由`contracts/plugin-manifest.json`维护；构建期Ajv生成静态校验器，后端不使用eval，视图不编译Schema。
+manifest_version=1、Host API=1、format_version=1、专业schema_version=1.0.0。可执行字段及动作参数由`contracts/plugin-manifest.json`维护；完整保存和put集合动作的内容Schema由专业数据Schema自动派生，避免重复字段漂移；构建期Ajv生成静态校验器，后端不使用eval，视图不编译Schema。
 
 复用Core专业对象与不可变JSON修订，无独立SQL库、Migration、原稿目录或第三方账户。身份键为WorkRef＋owner_plugin_id＋object_id，固定版本为revision＋sha256，更新必须CAS。单工程512KiB、最多100来源；每类专业集合设明确上限，字段及精确限制以可执行Schema为准。
 
@@ -35,3 +35,5 @@ sequenceDiagram
 专业TXT和HTML返回offset、max_bytes、base64、chunk_sha256、total_bytes、sha256与next_offset，先逐块再核验完整文件。桌面通过宿主save_artifact保存固定对象与字节，作者选择目标、取消保护和原子写入沿宿主0.12.6公共合同；机器直接读同一分块，无GUI前置。
 
 格式升级先更新数据语义、转换规则和Schema，再发布新包；Host API、专业格式与包版本各有职责。旧固定引用不变，不覆盖公开同版本附件。
+
+身份辨析修正通过新声明的supersedes_id显式指向同一对人物的旧声明；原记录保持，不允许自指或循环。当前冲突只在未被明确取代的声明上检查，工作面仍展示全部历史。不同于按数组位置自动选择最后一次说法。

@@ -1,0 +1,131 @@
+{
+  "recorded_at": "2026-11-19T04:14:50.196Z",
+  "entry": "当前Codex会话经公开0.12.6 CLI连续执行，包内Skill热发现另由既有MCP验证",
+  "host_version": "0.12.6",
+  "package_sha256": "24cf0a063f5120e8e4dd5879536927b4effcc2ef14a57e307a45a44a71daf163",
+  "work_ref": {
+    "workspace_id": "workspace_01abb9b1-8e4a-46ac-a8ee-82d200f35875",
+    "kind": "novel",
+    "object_id": "novel_c070a2bc-10f4-4b55-a61b-981caa46f1ac"
+  },
+  "original": {
+    "object_id": "ext_52dfd9ab-567c-42c6-acb9-cd6d22f5763c",
+    "revision": 1,
+    "sha256": "3a6ffa624381be95f749e198f806f2ab1567193b30dbf826a73caba7a44a55eb"
+  },
+  "revised": {
+    "object_id": "ext_52dfd9ab-567c-42c6-acb9-cd6d22f5763c",
+    "revision": 3,
+    "sha256": "f6bf1c8d3906d57139c25c76046f7d31461c6b99f2aa65fe55fe5996fbed3351"
+  },
+  "checks_before": {
+    "basis_ref": {
+      "object_id": "ext_52dfd9ab-567c-42c6-acb9-cd6d22f5763c",
+      "owner_plugin_id": "org.wordflowlab.biography-studio",
+      "revision": 1,
+      "sha256": "3a6ffa624381be95f749e198f806f2ab1567193b30dbf826a73caba7a44a55eb"
+    },
+    "identity_conflicts": [],
+    "life_conflicts": [],
+    "note": "事件和身份声明可相互矛盾；检查定位冲突，不替作者选择史实。",
+    "project_ref": {
+      "object_id": "ext_52dfd9ab-567c-42c6-acb9-cd6d22f5763c",
+      "revision": 1,
+      "sha256": "3a6ffa624381be95f749e198f806f2ab1567193b30dbf826a73caba7a44a55eb"
+    },
+    "stale_chapter_ids": [],
+    "stale_note_ids": [],
+    "unknown_date_ids": [
+      "move"
+    ],
+    "unsourced_event_ids": [
+      "move"
+    ]
+  },
+  "checks_after": {
+    "basis_ref": {
+      "object_id": "ext_52dfd9ab-567c-42c6-acb9-cd6d22f5763c",
+      "owner_plugin_id": "org.wordflowlab.biography-studio",
+      "revision": 2,
+      "sha256": "1495a0921c999e9355787ea9aeda0cda2859f1a1f2c50cc858e9d17b224849f9"
+    },
+    "identity_conflicts": [],
+    "life_conflicts": [],
+    "note": "事件和身份声明可相互矛盾；检查定位冲突，不替作者选择史实。",
+    "project_ref": {
+      "object_id": "ext_52dfd9ab-567c-42c6-acb9-cd6d22f5763c",
+      "revision": 2,
+      "sha256": "1495a0921c999e9355787ea9aeda0cda2859f1a1f2c50cc858e9d17b224849f9"
+    },
+    "stale_chapter_ids": [
+      "chapter"
+    ],
+    "stale_note_ids": [
+      "note"
+    ],
+    "unknown_date_ids": [
+      "move"
+    ],
+    "unsourced_event_ids": [
+      "move"
+    ]
+  },
+  "original_operation_preserved": true,
+  "previous_revision_preserved": true,
+  "upstream_basis": [
+    {
+      "object_id": "ext_255aacbf-b717-434c-94c1-5e8cc26969a8",
+      "owner_plugin_id": "org.wordflowlab.nonfiction-studio",
+      "revision": 2,
+      "sha256": "1d89b2ec76c3161980f2f4dd2b6be4f8c57cff39211e400dad67326afbd80a0a"
+    }
+  ],
+  "adopted": false,
+  "finalized": false,
+  "fixture": "原创虚构人物与材料，不是真人采访或历史事实认证",
+  "existing_other_states_preserved": 29,
+  "original_work_fixed_ref": {
+    "revision_ref": {
+      "revision": 1
+    },
+    "sha256": "6577f6a191a8b6889c1c769db9f18e6afeb47e07359c92b47f259514ad33aaaf",
+    "work_ref": {
+      "kind": "novel",
+      "object_id": "novel_c070a2bc-10f4-4b55-a61b-981caa46f1ac",
+      "workspace_id": "workspace_01abb9b1-8e4a-46ac-a8ee-82d200f35875"
+    }
+  },
+  "original_work_record_unchanged": true,
+  "creation_package_sha256": "adc1059687c38b1f8eabaf55193e1b4664651201e40b244c4bd8ec51dace21dd",
+  "final_package_readback": {
+    "original_and_revised_preserved": true,
+    "original_operation_preserved": true,
+    "skill_rediscovered": true,
+    "other_states_preserved": 31
+  },
+  "current_mcp": {
+    "runtime_version": "0.12.3",
+    "entry": "当前Codex会话既有稳定MCP",
+    "package_sha256": "a92e151e50be60bdd366507a50f1b738de924007cec092f61e12a000580c8a66",
+    "capabilities_sha256": "0c0a8ca5a6b04a96dbcd413daf364aa39c11d68805603107eab76c95b1056362",
+    "skill_sha256": "2218f64c96cca34047477ec8749d9a7b7bd1c941411eb01304b2841124319093",
+    "skill_read": true,
+    "hot_discovery": true,
+    "revised": {
+      "object_id": "ext_52dfd9ab-567c-42c6-acb9-cd6d22f5763c",
+      "revision": 2,
+      "sha256": "1495a0921c999e9355787ea9aeda0cda2859f1a1f2c50cc858e9d17b224849f9"
+    },
+    "get_project_sha256_verified": true
+  },
+  "before_identity_correction": {
+    "object_id": "ext_52dfd9ab-567c-42c6-acb9-cd6d22f5763c",
+    "revision": 2,
+    "sha256": "1495a0921c999e9355787ea9aeda0cda2859f1a1f2c50cc858e9d17b224849f9"
+  },
+  "identity_correction": {
+    "old_statement_preserved": true,
+    "explicit_supersedes": true,
+    "status": "succeeded"
+  }
+}

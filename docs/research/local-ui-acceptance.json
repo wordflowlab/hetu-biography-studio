@@ -1,0 +1,39 @@
+{
+  "date": "2026-11-19T04:30:10.868Z",
+  "plugin_id": "org.wordflowlab.biography-studio",
+  "package_sha256": "24cf0a063f5120e8e4dd5879536927b4effcc2ef14a57e307a45a44a71daf163",
+  "host_version": "hetu 0.12.6",
+  "surface_origin": "fixed-packaged-host",
+  "platform": "darwin",
+  "architecture": "arm64",
+  "tabs": [
+    "传记阅读",
+    "生平时间线",
+    "人物与身份",
+    "证词依据",
+    "传记交付"
+  ],
+  "empty_state": true,
+  "professional_actions": true,
+  "artifact_files": [
+    "传记审核本.html",
+    "传记阅读本.txt"
+  ],
+  "themes": [
+    "light",
+    "dark"
+  ],
+  "widths": [
+    1360,
+    760
+  ],
+  "reduced_transparency": true,
+  "CAS_preserves_input": true,
+  "explicit_rebase": true,
+  "close_reopen": true,
+  "dirty_buffer_restore": true,
+  "page_errors": [],
+  "limits": [
+    "原生窗口材质、系统输入法及Windows/Linux未由本测试证明"
+  ]
+}

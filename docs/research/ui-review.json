@@ -1,0 +1,153 @@
+{
+  "recorded_at": "2026-11-19",
+  "host_version": "0.12.6",
+  "package_sha256": "24cf0a063f5120e8e4dd5879536927b4effcc2ef14a57e307a45a44a71daf163",
+  "basis": "公开签名公证宿主的隔离安装，原创演示材料；实际查看五页浅暗正常／窄窗和专业操作。",
+  "scores": {
+    "layout": 9,
+    "spacing_alignment": 9,
+    "typography": 9,
+    "colors": 9,
+    "control_states": 9,
+    "interaction": 9
+  },
+  "observations": [
+    "紧凑顶部、独立工作面，专业阅读先于高级编辑",
+    "正文纸面与连续长页渐变，浅暗／760宽度无横向溢出",
+    "四档以内字号、最小12px、细边框、键盘可达",
+    "两种专业文件原字节导出、取消、CAS保留输入、明确读取新基线与关闭恢复通过",
+    "后台报告状态独立，用户操作反馈保持",
+    "新增身份声明明确取代旧记录，界面保留历史；完整旅程复验通过。"
+  ],
+  "limits": [
+    "评分是实际画面及行为支持的设计判断，不是像素认证",
+    "原生窗口材质、输入法、Windows/Linux专业实机未验",
+    "模拟资料不是实际历史或真人研究"
+  ],
+  "files": [
+    {
+      "file": "evidence/work-surfaces/light-760-view-0.png",
+      "sha256": "355ff25cc720d1f9d307b38ae0a294481a4a0948b11553f93a3a17a567fd3c25"
+    },
+    {
+      "file": "evidence/work-surfaces/light-1360-view-1.png",
+      "sha256": "a7c289765f00256321abdd57aaddb53b45dd891fd1eea5ac38eecc382048bf83"
+    },
+    {
+      "file": "evidence/work-surfaces/light-1360-view-0.png",
+      "sha256": "9fb9650f3df717e07a885c26f8164bcab193b6310b4973e32a6c09f7c018f611"
+    },
+    {
+      "file": "evidence/work-surfaces/reduced-transparency.png",
+      "sha256": "4eebfa5eebe102509d7c569b8cb46adff139911f9b9e855a8d05435c8ec91ee7"
+    },
+    {
+      "file": "evidence/work-surfaces/light-760-view-1.png",
+      "sha256": "be0dcbb7aa513b39a9212bdaf0202173615d88bb2c4e399305bb590e5d3a0f7a"
+    },
+    {
+      "file": "evidence/work-surfaces/light-760-view-3.png",
+      "sha256": "90ee907f41ad2466c5f48060e99da0e7b5efd1ff2c2a98400c1206469c9bc015"
+    },
+    {
+      "file": "evidence/work-surfaces/light-1360-view-2.png",
+      "sha256": "cbdc7619c8dac5a6489acc1cc81ba0d56545aae79cac2bf47f65c7436c01a3b4"
+    },
+    {
+      "file": "evidence/work-surfaces/light-1360-view-3.png",
+      "sha256": "8c4651e2e6b69e2bbac210ef92b9ef8c61d67db26896b4892c7d9ad32ac06ab4"
+    },
+    {
+      "file": "evidence/work-surfaces/light-760-view-2.png",
+      "sha256": "79d4befc6528151a91837b49814802b499ff9dc3ccd6383e2f968e21e4144fb9"
+    },
+    {
+      "file": "evidence/work-surfaces/light-1360.png",
+      "sha256": "8bdcb2114fdbc3a7497a14c4d1068574650286d7ff2dafcee227b0bbf62605de"
+    },
+    {
+      "file": "evidence/work-surfaces/light-760.png",
+      "sha256": "f3d588ccad0619addf798fb2487d6a841b7b40d71579a72a1c950b5a841a1723"
+    },
+    {
+      "file": "evidence/work-surfaces/light-1360-view-4.png",
+      "sha256": "447e6a548687fc5394bcd36bca869d90a8f20ad8c1303ab72b7526b41930dc7d"
+    },
+    {
+      "file": "evidence/work-surfaces/light-760-view-4.png",
+      "sha256": "f3d588ccad0619addf798fb2487d6a841b7b40d71579a72a1c950b5a841a1723"
+    },
+    {
+      "file": "evidence/work-surfaces/empty.png",
+      "sha256": "ac6739ba52efd247a3d35229fdc29a08a6eaa25864f65ccb3c77f97cdcc5a979"
+    },
+    {
+      "file": "evidence/work-surfaces/dark-1360.png",
+      "sha256": "cf9c55ba68c41f10ac06fe9d1530a306ea7324ff19274f3fc867859df4d187b3"
+    },
+    {
+      "file": "evidence/work-surfaces/dark-1360-view-4.png",
+      "sha256": "7d778ff99fc271c3b37f8758f3d8a71fc056a116ad8660ea59615d7617e05a90"
+    },
+    {
+      "file": "evidence/work-surfaces/dark-1360-view-3.png",
+      "sha256": "b7316f74cd7f58d24afafdd5393792add8546c2486ae1929590bad762d834c0b"
+    },
+    {
+      "file": "evidence/work-surfaces/dark-1360-view-2.png",
+      "sha256": "62254c0cba464af5e5de964e94b8bf8f7ec5dcf7b82f69a4d70e1771a2df37e0"
+    },
+    {
+      "file": "evidence/work-surfaces/dark-1360-view-0.png",
+      "sha256": "af0dc884ecdc92b27d60cc71de12d29dc3dbd38af99026616e7db3d03bded711"
+    },
+    {
+      "file": "evidence/work-surfaces/dark-760.png",
+      "sha256": "ecd1bb9d5d78b97cf6ae8b9352709764f8346274793babeb2cce6ba752c78a5e"
+    },
+    {
+      "file": "evidence/work-surfaces/dark-1360-view-1.png",
+      "sha256": "26707270995fac3f8767078a075a0e9d7d9cdd02bd45320df0c2e12b0ab8d4e8"
+    },
+    {
+      "file": "evidence/work-surfaces/dark-760-view-4.png",
+      "sha256": "ecd1bb9d5d78b97cf6ae8b9352709764f8346274793babeb2cce6ba752c78a5e"
+    },
+    {
+      "file": "evidence/work-surfaces/view-4.png",
+      "sha256": "09ff1182add9747f41278814f124f4c0cb0c93f153ad40397c05a9d66312bb45"
+    },
+    {
+      "file": "evidence/work-surfaces/view-0.png",
+      "sha256": "29cb44011439ee536067148cc4c153806f42717f06e61f82d5415623dd7487cf"
+    },
+    {
+      "file": "evidence/work-surfaces/dark-760-view-1.png",
+      "sha256": "1257422023e41eb7f24eabe0b776fbef595064e655477fa26e92181eae42294d"
+    },
+    {
+      "file": "evidence/work-surfaces/dark-760-view-0.png",
+      "sha256": "308f72275860ceec18bf0bd0cdf88a4a94203612a3351a95e0867d9d59bf374a"
+    },
+    {
+      "file": "evidence/work-surfaces/view-1.png",
+      "sha256": "1087dcc5e972742726fcf93aa4489a84d5a34a46d7ea917b086ddc69ffee3c4f"
+    },
+    {
+      "file": "evidence/work-surfaces/view-3.png",
+      "sha256": "be71290dd35e74db8e784cc3fb46f11208292ee4d768b8ea559e82801fc5eb78"
+    },
+    {
+      "file": "evidence/work-surfaces/dark-760-view-2.png",
+      "sha256": "c2f83d4abd744a89872b147e7d05bb0eb9832495f98a69ed5a44376165d1589f"
+    },
+    {
+      "file": "evidence/work-surfaces/dark-760-view-3.png",
+      "sha256": "c000e42daa537515720c883ce525598b48fd430e54266342e90fddaf8eb1d9de"
+    },
+    {
+      "file": "evidence/work-surfaces/view-2.png",
+      "sha256": "e0e0fd194400fde046987cda6a06b5e4e6570c6ca21ae85b170f512ec63cb64c"
+    }
+  ]
+}
