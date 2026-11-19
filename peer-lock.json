@@ -2,14 +2,14 @@
   "peers": [
     {
       "slug": "poetry-studio",
-      "source_commit": "727a034383279eb0b4b84a7e9a46cd2e7639498c",
-      "package_sha256": "918b748e413eeb3364c74883cddd16fab4ec2f7103899553208820d07c9f1ac2",
+      "source_commit": "60a8552f0f552b7f413652450a5839e9c839550e",
+      "package_sha256": "b3b49e1f0ad1d1e46772b6183f290643f0b884a18842858d5a4f07cf8acbb251",
       "scope": "仅固定组合测试，不是运行时强制安装依赖"
     },
     {
       "slug": "nonfiction-studio",
-      "source_commit": "0a4f608aaecf31138c23d45e124dcafbe97fc61a",
-      "package_sha256": "44948e7bbf73adf574cce6339fcbad0af4b98f1f8144dc2a3ce4bed959e931d0",
+      "source_commit": "f0ba96053b19651c0de19362e02fc35c1851597a",
+      "package_sha256": "df2b61ca9d3fbf8cfc7692535461971c6a083bc85e5f145da8243282add4c4b4",
       "scope": "仅固定组合测试，不是运行时强制安装依赖"
     }
   ]
