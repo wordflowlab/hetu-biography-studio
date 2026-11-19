@@ -141,5 +141,11 @@
       "sha256": "1495a0921c999e9355787ea9aeda0cda2859f1a1f2c50cc858e9d17b224849f9"
     },
     "get_project_sha256_verified": true
+  },
+  "public_package_install": {
+    "original_and_revised_preserved": true,
+    "original_operation_preserved": true,
+    "skill_rediscovered": true,
+    "other_states_preserved": 31
   }
 }

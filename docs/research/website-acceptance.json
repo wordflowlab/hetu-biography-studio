@@ -1,0 +1,45 @@
+{
+  "recorded_at": "2026-11-19",
+  "state": "deployed_and_verified",
+  "origin": "https://hetu.limeai.run",
+  "deployment": "https://3a821705.hetu-website-3uu.pages.dev",
+  "deployed_source_commit": "ef0a66f23dade89219c3b8929a207a722a067ca4",
+  "plugin_release": {
+    "release": "https://github.com/wordflowlab/hetu-biography-studio/releases/tag/v0.1.0",
+    "source_commit": "fd1214f8c8dc258586d75c7b5c61bef161577e43",
+    "archive_sha256": "c85cc3e400cec4021dee9c2c23e5deb2fcfe1d8f732ec2baf02a030e47efd59b",
+    "package_sha256": "e6dd4d89c86b34109d2cc83f133d65b3abd0acacaed9293d701251a3a0600896",
+    "files_byte_identical": 18,
+    "verified": true
+  },
+  "routes": [
+    {
+      "route": "/plugins/biography-studio/",
+      "status": 200,
+      "raw_sha256": "94f0be2050431f0abea0604c16e779c8181559534a8ca8e1e2f852430f5cdc28",
+      "expected_sha256": "94f0be2050431f0abea0604c16e779c8181559534a8ca8e1e2f852430f5cdc28",
+      "observed_changes": [],
+      "matches_build": true
+    },
+    {
+      "route": "/en/plugins/biography-studio/",
+      "status": 200,
+      "raw_sha256": "479bb815166643f3de34c272aa6c1ae8fb5740169cb78e95ec3fe50df65db55e",
+      "expected_sha256": "479bb815166643f3de34c272aa6c1ae8fb5740169cb78e95ec3fe50df65db55e",
+      "observed_changes": [],
+      "matches_build": true
+    },
+    {
+      "route": "/plugins/biography-studio.png",
+      "status": 200,
+      "raw_sha256": "5cb54d09f7d6b1174420580e5f6d1ccd3ce5aa8dc5fbc904f90c353608d8bbcf",
+      "expected_sha256": "5cb54d09f7d6b1174420580e5f6d1ccd3ce5aa8dc5fbc904f90c353608d8bbcf",
+      "observed_changes": [],
+      "matches_build": true
+    }
+  ],
+  "website_local_checks_passed": 48,
+  "website_production_checks_passed": 48,
+  "scope": "三包联合官网专项：中英分类检索、固定制品、真实工作面、375/768/1440、键盘、禁用脚本及剪贴板降级",
+  "owner_evidence": "https://github.com/limecloud/hetu/blob/main/docs/research/evidence/literary-studios-release-2026-11-19.json"
+}

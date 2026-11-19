@@ -1,0 +1,8 @@
+{
+  "release": "https://github.com/wordflowlab/hetu-biography-studio/releases/tag/v0.1.0",
+  "source_commit": "fd1214f8c8dc258586d75c7b5c61bef161577e43",
+  "archive_sha256": "c85cc3e400cec4021dee9c2c23e5deb2fcfe1d8f732ec2baf02a030e47efd59b",
+  "package_sha256": "e6dd4d89c86b34109d2cc83f133d65b3abd0acacaed9293d701251a3a0600896",
+  "files_byte_identical": 18,
+  "verified": true
+}
